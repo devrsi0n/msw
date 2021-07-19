@@ -1,5 +1,5 @@
 {
-  "name": "msw",
+  "name": "msw-rest",
   "version": "0.32.0",
   "description": "Seamless REST/GraphQL API mocking library for browser and Node.js.",
   "main": "lib/umd/index.js",
@@ -69,7 +69,6 @@
     "chalk": "^4.1.1",
     "chokidar": "^3.4.2",
     "cookie": "^0.4.1",
-    "graphql": "^15.5.1",
     "headers-utils": "^3.0.2",
     "inquirer": "^8.1.1",
     "js-levenshtein": "^1.1.6",
